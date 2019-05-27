@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/stack/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/stack/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FTES_JAVA_WALLET_BE_REGISTER_GIT/src/main/main.iml" filepath="$PROJECT_DIR$/FTES_JAVA_WALLET_BE_REGISTER_GIT/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/src/main/main1.iml" filepath="$PROJECT_DIR$/stack/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/znt_stackbio_api_users/src/main/main2.iml" filepath="$PROJECT_DIR$/znt_stackbio_api_users/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/znt_stackbio_api_stack/src/main/main3.iml" filepath="$PROJECT_DIR$/znt_stackbio_api_stack/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/src/test/test.iml" filepath="$PROJECT_DIR$/stack/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FTES_JAVA_WALLET_BE_REGISTER_GIT/src/test/test1.iml" filepath="$PROJECT_DIR$/FTES_JAVA_WALLET_BE_REGISTER_GIT/src/test/test1.iml" />
+    </modules>
+  </component>
+</project>

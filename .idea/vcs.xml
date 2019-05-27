@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/FTES_JAVA_WALLET_BE_REGISTER_GIT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/znt_stackbio_api_stack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/znt_stackbio_api_users" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/znt_stackbio_bd_scripts" vcs="Git" />
+  </component>
+</project>
